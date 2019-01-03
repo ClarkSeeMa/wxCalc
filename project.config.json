@@ -14,7 +14,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.0.4",
 	"appid": "wxa0411dc6126877bc",
-	"projectname": "test2",
+	"projectname": "calc",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
